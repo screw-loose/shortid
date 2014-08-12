@@ -1,4 +1,4 @@
-# ShortId [![Build Status](https://secure.travis-ci.org/dylang/shortid.png)](http://travis-ci.org/dylang/shortid)
+# ShortId [![Build Status](https://secure.travis-ci.org/corpix/shortid.png)](http://travis-ci.org/corpix/shortid)
 
 Port of the [Dylang's](https://github.com/dylang/shortid) library to Python.
 
