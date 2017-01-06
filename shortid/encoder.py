@@ -1,6 +1,10 @@
+from __future__ import absolute_import
+
+# standard
 import os
 
-class Encoder:
+
+class Encoder(object):
     def encode(self, lookup_fn, number):
         loops = 0
         res = ''
